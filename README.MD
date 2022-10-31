@@ -17,11 +17,18 @@
 
 - ⚡ Fun fact **El primer lenguaje de programación del mundo se llamó FORTRAN (acrónimo de Formula Translation), y fue creado en 1956. El equipo que lo creó, dirigido por el Sr. John Backus, comenzó a trabajar en él en 1954.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soyjohanposada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soyjohanposada" height="30" width="40" /></a>
+  
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/johan-posada-agudelo-77805b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johan-posada-agudelo-77805b247/" height="30" width="40" /></a>
+  
+  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20258851/johan-posada-agudelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20258851/johan-posada-agudelo" height="30" width="40" /></a>
+  
+  
 <a href="https://fb.com/https://www.facebook.com/leiderposada10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/leiderposada10/" height="30" width="40" /></a>
 </p>
 
