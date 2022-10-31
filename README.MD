@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **The world's first programming language was called FORTRAN (an acronym for Formula Translation), and it was created in 1956. The team that created it, led by Mr. John Backus, started working on it in 1954.**
 
-<br> <hr> <br>
+<br> <hr>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +27,7 @@
 <a href="https://fb.com/leiderposada10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/leiderposada10/" height="30" width="40" /></a>
 </p>
 
-<br> <hr> <br>
+<br> <hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
